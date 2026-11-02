@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cunbent-present.github.io/tochka/sitemap.xml
