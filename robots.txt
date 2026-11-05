@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cunbent-present.github.io/tochka/sitemap.xml
+Sitemap: https://tochka-klient.ru/sitemap.xml
